@@ -1,5 +1,5 @@
 
-%% Yaðýz Türedi 2095719
+%% YaÄŸÄ±z TÃ¼redi
 
 clear
 clc
